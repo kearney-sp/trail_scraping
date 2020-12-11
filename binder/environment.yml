@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - selenium
+  - pip
+  - pip:
+      - webdriver_manager
