@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - pandas
+  - geopandas
   - selenium
   - pip
   - pip:
